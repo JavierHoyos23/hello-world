@@ -1,2 +1,1 @@
-# hello-world
-Este repositorio es para practicar el flujo de GitHub
+Como Ingeniero en Mecatrónica me gusta desarrollar mis habilidades y conocimientos obtenidos durante mi transcurso escolar, al igual que continuar aprendiendo de las nuevas tecnologías que son desarrolladas día con día.
